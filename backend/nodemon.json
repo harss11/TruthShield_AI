@@ -1,7 +1,0 @@
-{
-  "ignore": [
-    "database.json",
-    "uploads/*",
-    "utils/runTests.js"
-  ]
-}
